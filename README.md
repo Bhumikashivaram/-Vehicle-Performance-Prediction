@@ -1,16 +1,16 @@
 # -Vehicle-Performance-Prediction
-The objective of the dataset is to predict performance of vehicle using linear regression
 
-Data Definition:
-Attribute Information:
+The objective of the dataset is to predict the performance of vehicles using linear regression
+
+Data Definition: Attribute Information:
 
 Kilometer_per_liter: distance in kilometer traveled per liter.
 
-cylinders: No of cylinders
+cylinders: No cylinders
 
 displacement: displacement
 
-horsepower: Horsepower is a unit of measurement of power, or the rate at which work is done, usually in reference to the output of engines or motors
+horsepower: Horsepower is a unit of measurement of power, or the rate at which work is done, usually about the output of engines or motors
 
 weight: Weight of car
 
